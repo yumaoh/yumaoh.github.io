@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "YU MengHao / Site Title"
 title_separator          : "-"
-name                     : &name "YU MengHao"
+name                     : &name "Yu MengHao"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
